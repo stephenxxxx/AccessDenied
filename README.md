@@ -7,6 +7,6 @@ To use, simply copy these entries into your system's host file.
 
 Examples:
 
-linux: sudo nano /etc/hosts
-windows: C:\Windows\system32\hosts (You may have to enable hidden files, please research the proper method)
-Android: /etc/hosts (root required)
+linux: sudo nano /etc/hosts  
+windows: C:\Windows\system32\hosts (You may have to enable hidden files, please research the proper method)  
+Android: /etc/hosts (root required)  
