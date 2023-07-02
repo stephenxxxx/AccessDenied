@@ -12,7 +12,7 @@ Contact:
 Denying access to Apple, Twitter, Facebook via HOSTS file. For a better life. This file blocks twitter, pintrest, facebook, and most of the tracking sites they use. It is very nice list. 
 To use, simply copy these entries into your system's host file.  
 
-# NEW  
+# ࿈ NEW  
 Scripts added. Please place them together with the hosts txt file and build your OWN freshhosts file from your existing hosts file. Please make a copy of your /etc/hosts file to /home/yourusername/hostsfresh  
 
 eg: cp /etc/hosts /home/yourusername/hostsfresh  
