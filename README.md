@@ -26,5 +26,5 @@ BASH SCRIPTS
 Examples:  
 
 linux: sudo nano /etc/hosts  
-windows: C:\Windows\system32\hosts (You may have to enable hidden files, please research the proper method)  
+windows: c:\Windows\System32\Drivers\etc\hosts (You may have to enable hidden files, please research the proper method)  
 Android: /etc/hosts (root required)  
