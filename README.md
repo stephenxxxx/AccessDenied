@@ -20,7 +20,7 @@ eg: cp /etc/hosts /home/yourusername/hostsfresh
 Once you have your original hosts file backed up (you might even want to make a backup of the backup) you can run the scripts in the same directory as all the files. Any directory is fine.  
 
 BASH SCRIPTS  
-./accessgranted.sh - allows access restoring your orginal hosts file we just made the backup.  
+./accessgranted.sh - allows access restoring your orginal hosts file  
 ./accessdenied.sh - deny access to FATP  
 
 Examples:  
